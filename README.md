@@ -216,7 +216,7 @@ GitHub:
 https://github.com/kondagudavalli
 
 LinkedIn:
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/tirumala-konda-gudavalli-161016274/
 
 ---
 
@@ -224,6 +224,7 @@ LinkedIn:
 
 ## DataGraph Digaram
 ![d-g](images/dataGraph.png)
+
 
 # ⭐ Future Improvements
 
