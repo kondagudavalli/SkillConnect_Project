@@ -179,6 +179,15 @@ GET /api/recommendations/:name
 
 ![Home](images/home.png)
 
+### connect users
+![c-users](images/connectUser.png)
+
+### create User.png
+![create-user](images/createUser.png)
+
+### add skill
+![add-skill](images/addSkill.png)
+
 ### Users
 
 ![Users](images/usersList.png)
