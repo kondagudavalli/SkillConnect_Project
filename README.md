@@ -181,10 +181,10 @@ GET /api/recommendations/:name
 
 ### Users
 
-![Users](images/users.png)
+![Users](images/usersList.png)
 ### Recommendations
 
-![Recommendation](images/recommendation.png)
+![Recommendation](images/recom.png)
 ---
 
 # 👨‍💻 Author
