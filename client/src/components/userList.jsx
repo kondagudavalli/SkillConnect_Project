@@ -12,13 +12,18 @@ function UserList(){
 
     },[]);
 
-    async function fetchUsers(){
+   async function fetchUsers() {
+    try {
+        const response = await api.get("/users");
 
-        const response=await api.get("/users");
+        console.log(response.data);
 
         setUsers(response.data);
 
+    } catch (err) {
+        console.log(err);
     }
+}
 
     return(
 
