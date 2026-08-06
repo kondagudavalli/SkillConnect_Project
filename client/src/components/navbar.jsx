@@ -1,20 +1,4 @@
-// function Navbar() {
 
-//     return (
-
-//         <header className="navbar">
-
-//             <h1>SkillConnect</h1>
-
-//             <p>Graph-Based Job Recommendation System</p>
-
-//         </header>
-
-//     );
-
-// }
-
-// export default Navbar;
 
 function Navbar() {
 
