@@ -1,51 +1,11 @@
-// import "./App.css";
-
-// import Navbar from "./components/Navbar";
-// import UserForm from "./components/UserForm";
-// import UserList from "./components/UserList";
-// import SkillForm from "./components/SkillForm";
-// import ConnectForm from "./components/ConnectForm";
-// import Recommendation from "./components/Recommendation";
-
-// function App(){
-
-//     return(
-
-//         <>
-
-//             <Navbar/>
-
-//             <div className="container">
-
-//                 <UserForm/>
-
-//                 <UserList/>
-
-//                 <SkillForm/>
-
-//                 <ConnectForm/>
-
-//                 <Recommendation/>
-
-//             </div>
-
-//         </>
-
-//     );
-
-// }
-
-// export default App;
-
 import "./App.css";
 
-import Navbar from "./components/Navbar";
-import UserForm from "./components/UserForm";
-import SkillForm from "./components/SkillForm";
-import ConnectForm from "./components/ConnectForm";
-import Recommendation from "./components/Recommendation";
-import UserList from "./components/UserList";
-
+import Navbar from "./components/navbar";
+import UserForm from "./components/userForm";
+import SkillForm from "./components/skillForm";
+import ConnectForm from "./components/connectForm";
+import Recommendation from "./components/recommendation";
+import UserList from "./components/userList";
 function App() {
 
     return (
