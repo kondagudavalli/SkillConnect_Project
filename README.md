@@ -11,9 +11,17 @@ The application allows users to:
 
 ---
 
+## 🔗 Project Links
+
+🌐 **Live Demo:**  
+https://skill-connect-project-ipql.vercel.app/
+
+📂 **GitHub Repository:**  
+https://github.com/kondagudavalli/SkillConnect_Project
+
 ## 📸 Project Preview
 
-(Add your screenshots here)
+![p-p](images/project-preview.png)
 
 ---
 
@@ -179,13 +187,13 @@ GET /api/recommendations/:name
 
 ![Home](images/home.png)
 
-### connect users
+### Connect users
 ![c-users](images/connectUser.png)
 
-### create User.png
+### Create User
 ![create-user](images/createUser.png)
 
-### add skill
+### Add skill
 ![add-skill](images/addSkill.png)
 
 ### Users
