@@ -220,6 +220,11 @@ LinkedIn:
 
 ---
 
+# cognoDB Info:
+
+## DataGraph Digaram
+![d-g](images/dataGraph.png)
+
 # ⭐ Future Improvements
 
 - Authentication (JWT)
