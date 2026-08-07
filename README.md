@@ -24,6 +24,21 @@ https://github.com/kondagudavalli/SkillConnect_Project
 ![p-p](images/project-preview.png)
 
 ---
+### Why Graph Database?
+
+Traditional relational databases require multiple JOIN operations to discover relationships between users, skills, companies, and jobs.
+
+Graph databases store relationships as first-class citizens, allowing relationship traversal in constant time.
+
+Benefits include:
+
+Fast relationship traversal
+Natural representation of social networks
+Efficient recommendation systems
+Easy multi-hop queries
+Better scalability for connected data
+
+CognoDB makes it possible to query relationships using Cypher, greatly simplifying recommendation logic.
 
 # ✨ Features
 
